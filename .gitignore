@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+_pycache__/
+ckpt/*
+outputs_test/
+outputs_train/
